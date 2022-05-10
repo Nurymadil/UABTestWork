@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-public class GoodRemain
+﻿public class GoodRemain
 {
     //public int Id { get; set; }
     public Store Store { get; set; }
@@ -25,7 +24,7 @@ public class GoodRemain
         else { return "Неправильно инницализирован"; }
     }
 }
-public enum MeasureUnit
+public enum MeasureUnit//Ед-Измерения
 {
     Tonn, Kg
 }

@@ -1,5 +1,4 @@
-﻿
-public class Store//Склад
+﻿public class Store//Склад
 {
     //public int Id { get; set; }
     public string Name { get; set; }
